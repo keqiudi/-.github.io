@@ -3176,8 +3176,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://w.wallhaven.cc/full/ex/wallhaven-exwm3o.jpg);
     --darkmode-bg:url(https://w.wallhaven.cc/full/o3/wallhaven-o36er7.jpg);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --mobileday-bg: url(/assets/wallhaven-76y9e9.png);
+    --mobilenight-bg: url(/assets/wallhaven-76y9e9.png);
   }`;
 }
 // 切换背景主函数
