@@ -128,15 +128,6 @@
   </url>
   
   <url>
-    <loc>https://keqiudi.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://keqiudi.github.io/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -164,24 +155,6 @@
   </url>
   
   <url>
-    <loc>https://keqiudi.github.io/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://keqiudi.github.io/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://keqiudi.github.io/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -191,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://keqiudi.github.io/social/fcircle/index.html</loc>
+    <loc>https://keqiudi.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -200,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://keqiudi.github.io/personal/about/index.html</loc>
+    <loc>https://keqiudi.github.io/categories/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -218,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://keqiudi.github.io/social/link/index.html</loc>
+    <loc>https://keqiudi.github.io/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -236,6 +209,24 @@
   </url>
   
   <url>
+    <loc>https://keqiudi.github.io/site/time/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://keqiudi.github.io/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://keqiudi.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -245,7 +236,16 @@
   </url>
   
   <url>
-    <loc>https://keqiudi.github.io/site/time/index.html</loc>
+    <loc>https://keqiudi.github.io/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://keqiudi.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -281,6 +281,13 @@
 
   
   <url>
+    <loc>https://keqiudi.github.io/tags/Linux/</loc>
+    <lastmod>2023-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://keqiudi.github.io/tags/Markdown/</loc>
     <lastmod>2023-07-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,7 +302,7 @@
   </url>
   
   <url>
-    <loc>https://keqiudi.github.io/tags/Linux/</loc>
+    <loc>https://keqiudi.github.io/tags/github/</loc>
     <lastmod>2023-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -303,13 +310,6 @@
   
   <url>
     <loc>https://keqiudi.github.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/</loc>
-    <lastmod>2023-07-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://keqiudi.github.io/tags/github/</loc>
     <lastmod>2023-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -325,13 +325,6 @@
 
   
   <url>
-    <loc>https://keqiudi.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-07-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://keqiudi.github.io/categories/Linux/</loc>
     <lastmod>2023-07-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -339,7 +332,7 @@
   </url>
   
   <url>
-    <loc>https://keqiudi.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/</loc>
+    <loc>https://keqiudi.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -347,6 +340,13 @@
   
   <url>
     <loc>https://keqiudi.github.io/categories/github/</loc>
+    <lastmod>2023-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://keqiudi.github.io/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/</loc>
     <lastmod>2023-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
