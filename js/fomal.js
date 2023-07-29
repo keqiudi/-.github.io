@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://w.wallhaven.cc/full/ex/wallhaven-exwm3o.jpg);
+    --default-bg: url(https://w.wallhaven.cc/full/m3/wallhaven-m322vm.jpg);
     --darkmode-bg:url(https://w.wallhaven.cc/full/o3/wallhaven-o36er7.jpg);
-    --mobileday-bg: url(/assets/wallhaven-76y9e9.png);
-    --mobilenight-bg: url(/assets/wallhaven-76y9e9.png);
+    --mobileday-bg: url(https://w.wallhaven.cc/full/m3/wallhaven-m3lx9y.jpg);
+    --mobilenight-bg: url(https://w.wallhaven.cc/full/m3/wallhaven-m3lx9y.jpg);
   }`;
 }
 // 切换背景主函数
