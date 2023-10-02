@@ -3175,7 +3175,7 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://w.wallhaven.cc/full/m3/wallhaven-m322vm.jpg);
-    --darkmode-bg:url(https://w.wallhaven.cc/full/o3/wallhaven-o36er7.jpg);
+    --darkmode-bg:url(https://w.wallhaven.cc/full/73/wallhaven-735z8y.png);
     --mobileday-bg: url(https://w.wallhaven.cc/full/m3/wallhaven-m3lx9y.jpg);
     --mobilenight-bg: url(https://w.wallhaven.cc/full/m3/wallhaven-m3lx9y.jpg);
   }`;
