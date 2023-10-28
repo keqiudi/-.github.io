@@ -227,15 +227,6 @@
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.thekqd.top/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -246,6 +237,15 @@
   
   <url>
     <loc>https://www.thekqd.top/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.thekqd.top/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -281,7 +281,16 @@
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/personal/about/index.html</loc>
+    <loc>https://www.thekqd.top/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.thekqd.top/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -317,16 +326,7 @@
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.thekqd.top/social/fcircle/index.html</loc>
+    <loc>https://www.thekqd.top/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
