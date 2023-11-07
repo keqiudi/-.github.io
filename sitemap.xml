@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/box/nav/index.html</loc>
+    <loc>https://www.thekqd.top/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/box/animation/index.html</loc>
+    <loc>https://www.thekqd.top/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -228,6 +228,15 @@
   
   <url>
     <loc>https://www.thekqd.top/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.thekqd.top/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -254,25 +263,7 @@
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.thekqd.top/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.thekqd.top/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -290,6 +281,15 @@
   </url>
   
   <url>
+    <loc>https://www.thekqd.top/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.thekqd.top/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -299,7 +299,7 @@
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/social/link/index.html</loc>
+    <loc>https://www.thekqd.top/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -335,13 +335,6 @@
 
   
   <url>
-    <loc>https://www.thekqd.top/tags/Linux/</loc>
-    <lastmod>2023-11-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.thekqd.top/tags/Markdown/</loc>
     <lastmod>2023-11-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -356,14 +349,14 @@
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/tags/github/</loc>
+    <loc>https://www.thekqd.top/tags/Linux/</loc>
     <lastmod>2023-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/tags/MySQL/</loc>
+    <loc>https://www.thekqd.top/tags/github/</loc>
     <lastmod>2023-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -378,6 +371,13 @@
   
   <url>
     <loc>https://www.thekqd.top/tags/socket/</loc>
+    <lastmod>2023-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.thekqd.top/tags/MySQL/</loc>
     <lastmod>2023-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -414,14 +414,14 @@
 
   
   <url>
-    <loc>https://www.thekqd.top/categories/Linux/</loc>
+    <loc>https://www.thekqd.top/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.thekqd.top/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://www.thekqd.top/categories/Linux/</loc>
     <lastmod>2023-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
